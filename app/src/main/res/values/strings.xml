@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">HomerSimpson_FerranJuan</string>
+    <string name="HomerSimpson">Homer Simpson</string>
+    <string name="Simspsonstitle">Titol dels simpsons</string>
 </resources>
