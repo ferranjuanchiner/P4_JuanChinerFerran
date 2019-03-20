@@ -2,4 +2,9 @@
     <string name="app_name">HomerSimpson_FerranJuan</string>
     <string name="HomerSimpson">Homer Simpson</string>
     <string name="Simspsonstitle">Titol dels simpsons</string>
+    <string name="donut">donut</string>
+    <string name="ull">ull</string>
+    <string name="engranatgevermell">engranatgevermell</string>
+    <string name="engranatgeblau">engranatgeblau</string>
+    <string name="engranatgeverd">engrantgeverd</string>
 </resources>
