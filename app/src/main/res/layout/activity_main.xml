@@ -20,8 +20,8 @@
 
     <ImageView
         android:id="@+id/animacioImg"
-        android:layout_width="212dp"
-        android:layout_height="172dp"
+        android:layout_width="229dp"
+        android:layout_height="138dp"
         android:layout_gravity="center"
         android:layout_marginTop="207dp"
         android:contentDescription="@string/Simspsonstitle"
